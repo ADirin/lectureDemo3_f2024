@@ -5,7 +5,7 @@ pipeline {
         // Define Docker Hub credentials ID
         DOCKERHUB_CREDENTIALS_ID = 'dockerhub-credentials'
         // Define Docker Hub repository name
-        DOCKERHUB_REPO = 'amirdi/lecturedemo3'
+        DOCKERHUB_REPO = 'amirdi/testtest'
         // Define Docker image tag
         DOCKER_IMAGE_TAG = 'ver2'
     }
